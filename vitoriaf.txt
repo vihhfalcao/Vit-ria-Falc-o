@@ -1,0 +1,5 @@
+void main(){
+int idade;
+printf(" Digite sua idade por gentilesa");
+scanf("%d", &iddae);
+}
